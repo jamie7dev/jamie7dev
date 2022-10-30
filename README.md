@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie7dev&show_icons=true&bg_color=00000000)](https://github.com/jamie7dev/github-readme-stats)
 
 <!--
 **jamie7dev/jamie7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
